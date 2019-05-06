@@ -1,0 +1,32 @@
+{
+  "name": "toutiao-game-spider",
+  "version": "1.0.0",
+  "description": "a spider for toutiao mini game",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "csvtojson": "^2.0.8",
+    "fast-csv": "^2.5.0",
+    "glob": "^7.1.3",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttian99/toutiao-game-spider.git"
+  },
+  "author": "Monkey Jiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttian99/toutiao-game-spider/issues"
+  },
+  "homepage": "https://github.com/ttian99/toutiao-game-spider#readme"
+}

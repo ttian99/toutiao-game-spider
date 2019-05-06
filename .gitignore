@@ -1,0 +1,9 @@
+node_modules/
+
+# ignore all files in out/
+out/*
+# except for .gitkeep
+!.gitkeep
+
+.temp/
+!.gitkeep
